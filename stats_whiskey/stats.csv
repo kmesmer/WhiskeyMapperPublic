@@ -1,0 +1,502 @@
+whiskey,reviews,average,std_dev,type,brand,dist,owner,lat,lng,zoom
+1792 Full Proof,18,80.89,4.78,Bourbon,1792,Barton 1792,Sazerac,37.804914,-85.477748,17
+1792 Port Finish,14,79.93,3.08,Bourbon,1792,Barton 1792,Sazerac,37.804914,-85.477748,17
+1792 Ridgemont Reserve,12,80.92,7.69,Bourbon,1792,Barton 1792,Sazerac,37.804914,-85.477748,17
+1792 Small Batch,10,76.2,4.26,Bourbon,1792,Barton 1792,Sazerac,37.804914,-85.477748,17
+1792 Sweet Wheat,15,78.0,9.1,Bourbon,1792,Barton 1792,Sazerac,37.804914,-85.477748,17
+Aberfeldy 12,30,76.9,6.1,Scotch (Highlands),Aberfeldy,Aberfeldy,Bacardi,56.62429,-3.850271,17
+Aberfeldy 21,10,83.7,6.25,Scotch (Highlands),Aberfeldy,Aberfeldy,Bacardi,56.62429,-3.850271,17
+Aberlour 10,32,78.97,7.08,Scotch (Speyside),Aberlour,Aberlour,Pernod Ricard,57.467053,-3.228199,17
+Aberlour 12 Double Cask Matured,56,82.07,5.87,Scotch (Speyside),Aberlour,Aberlour,Pernod Ricard,57.467053,-3.228199,17
+Aberlour 12 Non Chill Filtered,60,88.5,4.62,Scotch (Speyside),Aberlour,Aberlour,Pernod Ricard,57.467053,-3.228199,17
+Aberlour 16,35,84.49,5.32,Scotch (Speyside),Aberlour,Aberlour,Pernod Ricard,57.467053,-3.228199,17
+Aberlour 18,22,86.86,6.2,Scotch (Speyside),Aberlour,Aberlour,Pernod Ricard,57.467053,-3.228199,17
+Aberlour A'bunadh batch #39,15,88.67,5.19,Scotch (Speyside),Aberlour,Aberlour,Pernod Ricard,57.467053,-3.228199,17
+Aberlour A'bunadh batch #42,11,87.45,3.47,Scotch (Speyside),Aberlour,Aberlour,Pernod Ricard,57.467053,-3.228199,17
+Aberlour A'bunadh batch #45,25,89.6,3.87,Scotch (Speyside),Aberlour,Aberlour,Pernod Ricard,57.467053,-3.228199,17
+Aberlour A'bunadh batch #46,12,86.42,5.2,Scotch (Speyside),Aberlour,Aberlour,Pernod Ricard,57.467053,-3.228199,17
+Aberlour A'bunadh batch #47,16,89.69,4.32,Scotch (Speyside),Aberlour,Aberlour,Pernod Ricard,57.467053,-3.228199,17
+Alberta Premium Dark Horse,25,84.24,7.98,Canadian Whisky,Alberta Premium,Alberta Premium,Beam Suntory,51.023004,-114.027073,17
+Amrut Cask Strength,15,89.0,4.38,World,Amrut,Amrut,Amrut,12.889107,77.452132,17
+Amrut Fusion,39,85.36,5.77,World,Amrut,Amrut,Amrut,12.889107,77.452132,17
+Amrut Intermediate Sherry,18,85.11,7.02,World,Amrut,Amrut,Amrut,12.889107,77.452132,17
+Amrut Kadhambam,17,86.06,4.92,World,Amrut,Amrut,Amrut,12.889107,77.452132,17
+Amrut Peated Cask Strength,19,85.32,8.85,World,Amrut,Amrut,Amrut,12.889107,77.452132,17
+Amrut Portonova,26,87.58,5.16,World,Amrut,Amrut,Amrut,12.889107,77.452132,17
+Amrut Spectrum 004,10,89.05,2.89,World,Amrut,Amrut,Amrut,12.889107,77.452132,17
+AnCnoc 12,61,82.1,7.23,Scotch (Speyside),AnCnoc,Knockdhu,Inver House,57.563535,-2.758611,17
+AnCnoc 16,20,86.9,4.1,Scotch (Speyside),AnCnoc,Knockdhu,Inver House,57.563535,-2.758611,17
+AnCnoc Flaughter,10,78.9,18.75,Scotch (Speyside),AnCnoc,Knockdhu,Inver House,57.563535,-2.758611,17
+Angel's Envy Bourbon,28,80.64,6.93,Bourbon,Angel's Envy,Angel's Envy,Bacardi,38.254737,-85.743699,17
+Angel's Envy Cask Strength,13,88.08,9.27,Bourbon,Angel's Envy,Angel's Envy,Bacardi,38.254737,-85.743699,17
+Angel's Envy Rye,23,83.04,8.7,Rye,Angel's Envy,Angel's Envy,Bacardi,38.254737,-85.743699,17
+Ardbeg 10,166,86.04,6.38,Scotch (Islay),Ardbeg,Ardbeg,LVMH,55.640718,-6.107898,17
+Ardbeg Airigh Nam Beist 1990,15,88.13,5.42,Scotch (Islay),Ardbeg,Ardbeg,LVMH,55.640718,-6.107898,17
+Ardbeg Alligator,30,89.2,4.32,Scotch (Islay),Ardbeg,Ardbeg,LVMH,55.640718,-6.107898,17
+Ardbeg An Oa,14,82.64,5.96,Scotch (Islay),Ardbeg,Ardbeg,LVMH,55.640718,-6.107898,17
+Ardbeg Ardbog,49,88.94,4.39,Scotch (Islay),Ardbeg,Ardbeg,LVMH,55.640718,-6.107898,17
+Ardbeg Auriverdes,16,84.12,4.36,Scotch (Islay),Ardbeg,Ardbeg,LVMH,55.640718,-6.107898,17
+Ardbeg Corryvreckan,95,89.38,4.97,Scotch (Islay),Ardbeg,Ardbeg,LVMH,55.640718,-6.107898,17
+Ardbeg Dark Cove Committee Release,16,84.12,9.56,Scotch (Islay),Ardbeg,Ardbeg,LVMH,55.640718,-6.107898,17
+Ardbeg Day,12,89.83,3.24,Scotch (Islay),Ardbeg,Ardbeg,LVMH,55.640718,-6.107898,17
+Ardbeg Drum Committee Release,10,83.8,4.94,Scotch (Islay),Ardbeg,Ardbeg,LVMH,55.640718,-6.107898,17
+Ardbeg Galileo,39,88.08,6.4,Scotch (Islay),Ardbeg,Ardbeg,LVMH,55.640718,-6.107898,17
+Ardbeg Grooves Committee Release,9,82.67,7.89,Scotch (Islay),Ardbeg,Ardbeg,LVMH,55.640718,-6.107898,17
+Ardbeg Perpetuum,13,82.46,6.33,Scotch (Islay),Ardbeg,Ardbeg,LVMH,55.640718,-6.107898,17
+Ardbeg Supernova 2014,11,90.55,5.2,Scotch (Islay),Ardbeg,Ardbeg,LVMH,55.640718,-6.107898,17
+Ardbeg Uigeadail,175,90.66,5.07,Scotch (Islay),Ardbeg,Ardbeg,LVMH,55.640718,-6.107898,17
+Ardmore 12 Port Wood Finish,8,82.88,6.33,Scotch (Highlands),Ardmore,Ardmore,Beam Suntory,57.351193,-2.745273,17
+Ardmore Legacy,9,73.44,7.88,Scotch (Highlands),Ardmore,Ardmore,Beam Suntory,57.351193,-2.745273,17
+Ardmore Traditional Cask Peated,31,79.39,5.91,Scotch (Highlands),Ardmore,Ardmore,Beam Suntory,57.351193,-2.745273,17
+Arran 10,40,81.9,7.19,Scotch (Islands),Arran,Arran,Arran,55.697742,-5.275511,17
+Arran 12 Cask Strength,18,85.39,4.95,Scotch (Islands),Arran,Arran,Arran,55.697742,-5.275511,17
+Arran 14,34,83.74,5.32,Scotch (Islands),Arran,Arran,Arran,55.697742,-5.275511,17
+Arran Amarone Cask Finish,21,83.52,4.63,Scotch (Islands),Arran,Arran,Arran,55.697742,-5.275511,17
+Arran Port Cask Finish,21,78.81,8.78,Scotch (Islands),Arran,Arran,Arran,55.697742,-5.275511,17
+Arran Sauternes Cask Finish,22,81.41,7.12,Scotch (Islands),Arran,Arran,Arran,55.697742,-5.275511,17
+Auchentoshan 12,41,77.85,7.3,Scotch (Lowlands),Auchentoshan,Auchentoshan,Beam Suntory,55.922967,-4.438055,17
+Auchentoshan Classic,11,74.45,8.2,Scotch (Lowlands),Auchentoshan,Auchentoshan,Beam Suntory,55.922967,-4.438055,17
+Auchentoshan Three Wood,53,81.15,7.31,Scotch (Lowlands),Auchentoshan,Auchentoshan,Beam Suntory,55.922967,-4.438055,17
+Auchentoshan Valinch,36,83.11,7.3,Scotch (Lowlands),Auchentoshan,Auchentoshan,Beam Suntory,55.922967,-4.438055,17
+Aultmore 12,14,79.43,4.73,Scotch (Speyside),Aultmore,Aultmore,Bacardi,57.567565,-3.002121,17
+Baker's 107,31,80.23,10.28,Bourbon,Baker's,Jim Beam,Beam Suntory,37.929228,-85.652782,17
+Balblair 1990 2nd Release,11,86.91,3.36,Scotch (Highlands),Balblair,Balblair,Inver House,57.839939,-4.181173,17
+Balcones Brimstone,20,75.5,19.14,American Whiskey,Balcones,Balcones,Balcones,31.550398,-97.135632,17
+Balcones Texas Single Malt,19,83.61,5.62,American Whiskey,Balcones,Balcones,Balcones,31.550398,-97.135632,17
+Balvenie 12 Doublewood,120,81.08,5.74,Scotch (Speyside),Balvenie,Balvenie,William Grant & Sons,57.458888,-3.12907,17
+Balvenie 12 Single Barrel First Fill,27,84.74,4.92,Scotch (Speyside),Balvenie,Balvenie,William Grant & Sons,57.458888,-3.12907,17
+Balvenie 14 Caribbean Cask,99,83.84,5.88,Scotch (Speyside),Balvenie,Balvenie,William Grant & Sons,57.458888,-3.12907,17
+Balvenie 15 Single Barrel,58,87.09,5.07,Scotch (Speyside),Balvenie,Balvenie,William Grant & Sons,57.458888,-3.12907,17
+Balvenie 15 Single Barrel Sherry Cask,23,84.26,6.4,Scotch (Speyside),Balvenie,Balvenie,William Grant & Sons,57.458888,-3.12907,17
+Balvenie 17 Doublewood,36,84.5,5.61,Scotch (Speyside),Balvenie,Balvenie,William Grant & Sons,57.458888,-3.12907,17
+Balvenie 17 Madeira Cask,12,88.33,3.8,Scotch (Speyside),Balvenie,Balvenie,William Grant & Sons,57.458888,-3.12907,17
+Balvenie 17 Peated Cask,22,87.82,5.73,Scotch (Speyside),Balvenie,Balvenie,William Grant & Sons,57.458888,-3.12907,17
+Balvenie 21 Portwood,50,86.46,6.49,Scotch (Speyside),Balvenie,Balvenie,William Grant & Sons,57.458888,-3.12907,17
+Balvenie Tun 1401 Batch #3,14,91.64,4.5,Scotch (Speyside),Balvenie,Balvenie,William Grant & Sons,57.458888,-3.12907,17
+Basil Hayden's,21,76.86,7.39,Bourbon,Basil Hayden's,Jim Beam,Beam Suntory,37.929228,-85.652782,17
+BenRiach 10 Curiositas,25,84.2,5.52,Scotch (Speyside),BenRiach,BenRiach,Brown-Forman,57.611292,-3.291932,17
+BenRiach 12,18,78.83,15.26,Scotch (Speyside),BenRiach,BenRiach,Brown-Forman,57.611292,-3.291932,17
+BenRiach 12 Importanticus Fumosus,11,84.73,4.27,Scotch (Speyside),BenRiach,BenRiach,Brown-Forman,57.611292,-3.291932,17
+BenRiach 12 Sherry Matured,17,82.76,5.7,Scotch (Speyside),BenRiach,BenRiach,Brown-Forman,57.611292,-3.291932,17
+BenRiach 16,15,83.67,5.75,Scotch (Speyside),BenRiach,BenRiach,Brown-Forman,57.611292,-3.291932,17
+BenRiach 17 Solstice,40,88.62,4.55,Scotch (Speyside),BenRiach,BenRiach,Brown-Forman,57.611292,-3.291932,17
+Benrinnes 14 1999 Lady of the Glen,10,93.2,3.74,Scotch (Speyside),Benrinnes,Benrinnes,Diageo,57.441887,-3.236881,17
+Benrinnes 23,22,93.27,5.62,Scotch (Speyside),Benrinnes,Benrinnes,Diageo,57.441887,-3.236881,17
+Benromach 10,54,82.35,6.91,Scotch (Speyside),Benromach,Benromach,Gordon & MacPhail,57.613594,-3.620028,17
+Benromach 10 100 Proof,17,88.47,4.87,Scotch (Speyside),Benromach,Benromach,Gordon & MacPhail,57.613594,-3.620028,17
+Bernheim Original Small Batch Wheat Whiskey,18,78.11,9.52,Other,Bernheim,Heaven Hill,Heaven Hill,37.794984,-85.463799,17
+Black Bottle,33,76.94,7.83,Scotch (Blend),Black Bottle,Blended (Scotch),Distell Group,56.745487,-4.242247,7
+Black Grouse,13,71.54,11.74,Scotch (Blend),The Famous Grouse,Blended (Scotch),Edrington,56.745487,-4.242247,7
+Black Maple Hill,16,78.5,6.31,Bourbon,Black Maple Hill,Sourced (Bourbon),CVI Brands,37.468601,-85.018563,7
+Blanton's Original Single Barrel,53,85.62,5.24,Bourbon,Blanton's,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+Blanton's Straight from the Barrel,32,87.94,7.04,Bourbon,Blanton's,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+Booker's 25th Anniversary,12,89.42,3.55,Bourbon,Booker's,Jim Beam,Beam Suntory,37.929228,-85.652782,17
+Booker's Bourbon,86,87.41,5.72,Bourbon,Booker's,Jim Beam,Beam Suntory,37.929228,-85.652782,17
+Booker's Rye,12,88.83,5.36,Rye,Booker's,Jim Beam,Beam Suntory,37.929228,-85.652782,17
+Bowmore 12,62,76.21,9.1,Scotch (Islay),Bowmore,Bowmore,Beam Suntory,55.756907,-6.289849,17
+Bowmore 15 Darkest,43,79.23,7.62,Scotch (Islay),Bowmore,Bowmore,Beam Suntory,55.756907,-6.289849,17
+Bowmore 15 Laimrig,14,86.21,3.21,Scotch (Islay),Bowmore,Bowmore,Beam Suntory,55.756907,-6.289849,17
+Bowmore 18,24,82.21,7.01,Scotch (Islay),Bowmore,Bowmore,Beam Suntory,55.756907,-6.289849,17
+Bowmore Legend,19,65.53,17.05,Scotch (Islay),Bowmore,Bowmore,Beam Suntory,55.756907,-6.289849,17
+Bowmore Vault Edition 1st Release,11,79.18,6.13,Scotch (Islay),Bowmore,Bowmore,Beam Suntory,55.756907,-6.289849,17
+Breckenridge Bourbon,11,79.36,6.27,Bourbon,Breckenridge,Breckenridge,Breckenridge,55.756907,-6.289849,17
+Bruichladdich 21 Cuvee 407 PX,13,88.46,3.84,Scotch (Islay),Bruichladdich,Bruichladdich,Remy Cointreau,55.766549,-6.362269,17
+Bruichladdich Black Art 2.2,24,88.88,3.58,Scotch (Islay),Bruichladdich,Bruichladdich,Remy Cointreau,55.766549,-6.362269,17
+Bruichladdich Black Art 3.1,20,90.1,5.3,Scotch (Islay),Bruichladdich,Bruichladdich,Remy Cointreau,55.766549,-6.362269,17
+Bruichladdich Black Art 4.1,24,89.04,6.74,Scotch (Islay),Bruichladdich,Bruichladdich,Remy Cointreau,55.766549,-6.362269,17
+Bruichladdich Octomore 4.2_167 Comus,19,91.68,3.73,Scotch (Islay),Bruichladdich,Bruichladdich,Remy Cointreau,55.766549,-6.362269,17
+Bruichladdich Octomore 6.1,37,88.19,4.99,Scotch (Islay),Bruichladdich,Bruichladdich,Remy Cointreau,55.766549,-6.362269,17
+Bruichladdich Octomore 6.2,15,90.27,4.99,Scotch (Islay),Bruichladdich,Bruichladdich,Remy Cointreau,55.766549,-6.362269,17
+Bruichladdich Octomore 6.3,20,85.5,6.57,Scotch (Islay),Bruichladdich,Bruichladdich,Remy Cointreau,55.766549,-6.362269,17
+Bruichladdich Octomore 7.2,19,87.95,3.44,Scotch (Islay),Bruichladdich,Bruichladdich,Remy Cointreau,55.766549,-6.362269,17
+Bruichladdich Octomore 7.3,14,88.07,4.51,Scotch (Islay),Bruichladdich,Bruichladdich,Remy Cointreau,55.766549,-6.362269,17
+Bruichladdich Octomore 7.4,10,84.8,6.56,Scotch (Islay),Bruichladdich,Bruichladdich,Remy Cointreau,55.766549,-6.362269,17
+Bruichladdich Port Charlotte 10,18,87.56,2.25,Scotch (Islay),Bruichladdich,Bruichladdich,Remy Cointreau,55.766549,-6.362269,17
+Bruichladdich Port Charlotte 2007 CC:01,13,86.31,2.78,Scotch (Islay),Bruichladdich,Bruichladdich,Remy Cointreau,55.766549,-6.362269,17
+Bruichladdich Port Charlotte An Turas Mor,19,84.68,2.98,Scotch (Islay),Bruichladdich,Bruichladdich,Remy Cointreau,55.766549,-6.362269,17
+Bruichladdich Port Charlotte PC12 Oileanach Furachail,10,88.3,5.03,Scotch (Islay),Bruichladdich,Bruichladdich,Remy Cointreau,55.766549,-6.362269,17
+Bruichladdich Port Charlotte PC7 Sin an Doigh Ileach,19,89.37,5.2,Scotch (Islay),Bruichladdich,Bruichladdich,Remy Cointreau,55.766549,-6.362269,17
+Bruichladdich Port Charlotte Scottish Barley,39,83.59,5.54,Scotch (Islay),Bruichladdich,Bruichladdich,Remy Cointreau,55.766549,-6.362269,17
+Bruichladdich Port Charlotte The Peat Project,14,82.57,5.58,Scotch (Islay),Bruichladdich,Bruichladdich,Remy Cointreau,55.766549,-6.362269,17
+Bruichladdich Rocks,26,82.77,5.26,Scotch (Islay),Bruichladdich,Bruichladdich,Remy Cointreau,55.766549,-6.362269,17
+Bruichladdich Scottish Barley The Classic Laddie,26,83.96,4.57,Scotch (Islay),Bruichladdich,Bruichladdich,Remy Cointreau,55.766549,-6.362269,17
+Bruichladdich The Laddie Sixteen,14,86.64,4.6,Scotch (Islay),Bruichladdich,Bruichladdich,Remy Cointreau,55.766549,-6.362269,17
+Bruichladdich The Laddie Ten,81,86.52,4.22,Scotch (Islay),Bruichladdich,Bruichladdich,Remy Cointreau,55.766549,-6.362269,17
+Buchanan's 12 De Luxe,9,78.89,7.49,Scotch (Blend),Buchanan's,Blended (Scotch),Diageo,56.745487,-4.242247,7
+Buffalo Trace,70,82.91,6.92,Bourbon,Buffalo Trace,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+Buffalo Trace White Dog Mash #1,7,59.57,19.57,Other,Buffalo Trace,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+Bulleit Bourbon,50,79.88,6.31,Bourbon,Bulleit,Four Roses,Diageo,37.97337,-84.898452,17
+Bulleit Bourbon 10,15,83.8,5.37,Bourbon,Bulleit,Four Roses,Diageo,37.97337,-84.898452,17
+Bulleit Rye,50,82.6,5.7,Rye,Bulleit,Four Roses,Diageo,37.97337,-84.898452,17
+Bunnahabhain 12,117,85.24,5.92,Scotch (Islay),Bunnahabhain,Bunnahabhain,Distell Group,55.883412,-6.126698,17
+Bunnahabhain 14 Pedro Ximenez Finish,12,85.67,7.41,Scotch (Islay),Bunnahabhain,Bunnahabhain,Distell Group,55.883412,-6.126698,17
+Bunnahabhain 18,45,87.69,5.18,Scotch (Islay),Bunnahabhain,Bunnahabhain,Distell Group,55.883412,-6.126698,17
+Bunnahabhain 25,14,88.0,6.19,Scotch (Islay),Bunnahabhain,Bunnahabhain,Distell Group,55.883412,-6.126698,17
+Bunnahabhain Toiteach,19,83.63,6.98,Scotch (Islay),Bunnahabhain,Bunnahabhain,Distell Group,55.883412,-6.126698,17
+Bushmills 10,12,75.17,13.66,Irish Whiskey,Bushmills,Old Bushmills,Proximo,55.202915,-6.51727,17
+Bushmills Black Bush,11,79.36,4.43,Irish Whiskey,Bushmills,Old Bushmills,Proximo,55.202915,-6.51727,17
+Caol Ila 12,112,84.67,8.23,Scotch (Islay),Caol Ila,Caol Ila,Diageo,55.854129,-6.109328,17
+Caol Ila 15 Unpeated,17,85.35,4.77,Scotch (Islay),Caol Ila,Caol Ila,Diageo,55.854129,-6.109328,17
+Caol Ila 18,14,87.21,4.63,Scotch (Islay),Caol Ila,Caol Ila,Diageo,55.854129,-6.109328,17
+Caol Ila Distiller's Edition,12,86.5,4.85,Scotch (Islay),Caol Ila,Caol Ila,Diageo,55.854129,-6.109328,17
+Cardhu 12,33,76.27,7.97,Scotch (Speyside),Cardhu,Cardhu,Diageo,57.470499,-3.350063,17
+Chivas Regal 12,55,69.15,10.12,Scotch (Blend),Chivas,Blended (Scotch),Pernod Ricard,56.745487,-4.242247,7
+Clynelish 14,64,81.78,6.96,Scotch (Highlands),Clynelish,Clynelish,Diageo,58.023592,-3.868085,17
+Collingwood 21,9,82.89,7.27,Canadian Whisky,Collingwood,Blended (Canadian),Brown-Forman,58.031191,-102.432728,3
+Colonel E.H. Taylor Barrel Proof,47,88.28,6.65,Bourbon,Colonel E.H. Taylor,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+Colonel E.H. Taylor Cured Oak,13,87.77,5.85,Bourbon,Colonel E.H. Taylor,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+Colonel E.H. Taylor Single Barrel,31,83.19,7.24,Bourbon,Colonel E.H. Taylor,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+Colonel E.H. Taylor Small Batch,51,85.59,5.04,Bourbon,Colonel E.H. Taylor,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+Colonel E.H. Taylor Straight Rye,35,86.54,5.78,Rye,Colonel E.H. Taylor,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+Compass Box 3 Year Old Deluxe,9,85.06,5.31,Scotch (Blend),Compass Box,Blended (Scotch),Compass Box,56.745487,-4.242247,7
+Compass Box Asyla,18,76.39,9.76,Scotch (Blend),Compass Box,Blended (Scotch),Compass Box,56.745487,-4.242247,7
+Compass Box Enlightenment,9,82.11,4.86,Scotch (Blend),Compass Box,Blended (Scotch),Compass Box,56.745487,-4.242247,7
+Compass Box Flaming Heart,13,87.0,7.19,Scotch (Blend),Compass Box,Blended (Scotch),Compass Box,56.745487,-4.242247,7
+Compass Box Flaming Heart 15th Anniversary Edition,17,85.71,4.9,Scotch (Blend),Compass Box,Blended (Scotch),Compass Box,56.745487,-4.242247,7
+Compass Box Great King St. Artist's Blend,25,81.88,7.49,Scotch (Blend),Compass Box,Blended (Scotch),Compass Box,56.745487,-4.242247,7
+Compass Box Great King St. Glasgow Blend,12,81.58,4.25,Scotch (Blend),Compass Box,Blended (Scotch),Compass Box,56.745487,-4.242247,7
+Compass Box Hedonism,34,78.18,10.6,Scotch (Blend),Compass Box,Blended (Scotch),Compass Box,56.745487,-4.242247,7
+Compass Box No Name,12,85.67,6.31,Scotch (Blend),Compass Box,Blended (Scotch),Compass Box,56.745487,-4.242247,7
+Compass Box Oak Cross,24,80.0,6.53,Scotch (Blend),Compass Box,Blended (Scotch),Compass Box,56.745487,-4.242247,7
+Compass Box Peat Monster,27,80.67,5.5,Scotch (Blend),Compass Box,Blended (Scotch),Compass Box,56.745487,-4.242247,7
+Compass Box Spice Tree,37,81.81,6.25,Scotch (Blend),Compass Box,Blended (Scotch),Compass Box,56.745487,-4.242247,7
+Compass Box The Lost Blend,13,83.38,8.53,Scotch (Blend),Compass Box,Blended (Scotch),Compass Box,56.745487,-4.242247,7
+Compass Box This is Not a Luxury Whisky,12,87.08,6.17,Scotch (Blend),Compass Box,Blended (Scotch),Compass Box,56.745487,-4.242247,7
+Connemara Peated,21,74.19,8.19,Irish Whiskey,Connemara,Kilbeggan,Beam Suntory,53.369471,-7.503156,17
+Cragganmore 12,45,78.78,7.13,Scotch (Speyside),Cragganmore,Cragganmore,Diageo,57.409817,-3.394154,17
+Craigellachie 13,21,80.24,7.97,Scotch (Speyside),Craigellachie,Craigellachie,Bacardi,57.488587,-3.184543,17
+Crown Royal,13,67.08,8.66,Canadian Whisky,Crown Royal,Blended (Canadian),Diageo,58.031191,-102.432728,3
+Crown Royal Hand Selected Barrel,11,83.64,4.7,Canadian Whisky,Crown Royal,Blended (Canadian),Diageo,58.031191,-102.432728,3
+Crown Royal Northern Harvest Rye,21,77.9,7.18,Canadian Whisky,Crown Royal,Blended (Canadian),Diageo,58.031191,-102.432728,3
+Cutty Sark,18,60.72,15.13,Scotch (Blend),Cutty Sark,Blended (Scotch),Edrington,56.745487,-4.242247,7
+Dalmore 12,43,76.81,7.74,Scotch (Highlands),Dalmore,Dalmore,Whyte & Mackay,57.688541,-4.239161,17
+Dalmore 1263 King Alexander III,17,81.18,11.96,Scotch (Highlands),Dalmore,Dalmore,Whyte & Mackay,57.688541,-4.239161,17
+Dalmore 15,30,80.9,6.04,Scotch (Highlands),Dalmore,Dalmore,Whyte & Mackay,57.688541,-4.239161,17
+Dalmore Cigar Malt,18,79.89,10.29,Scotch (Highlands),Dalmore,Dalmore,Whyte & Mackay,57.688541,-4.239161,17
+Dalwhinnie 15,73,81.34,6.56,Scotch (Highlands),Dalwhinnie,Dalwhinnie,Diageo,56.940024,-4.239097,17
+Deanston 12,25,79.44,10.87,Scotch (Highlands),Deanston,Deanston,Distell Group,56.18888,-4.071004,17
+Deanston Virgin Oak,20,75.25,6.36,Scotch (Highlands),Deanston,Deanston,Distell Group,56.18888,-4.071004,17
+Dewar's 12,18,72.28,17.2,Scotch (Blend),Dewar's,Blended (Scotch),Bacardi,56.745487,-4.242247,7
+Dewar's White Label,32,57.09,11.49,Scotch (Blend),Dewar's,Blended (Scotch),Bacardi,56.745487,-4.242247,7
+Dimple Pinch 15,12,74.58,7.17,Scotch (Blend),Dimple Pinch,Blended (Scotch),Diageo,56.745487,-4.242247,7
+Eagle Rare 10,66,83.55,4.94,Bourbon,Eagle Rare,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+Eagle Rare 17,12,89.33,5.33,Bourbon,Eagle Rare,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+Edradour 10,25,81.4,7.57,Scotch (Highlands),Edradour,Edradour,Signatory Vintage,56.702041,-3.701037,17
+Elijah Craig 12,69,83.29,6.42,Bourbon,Elijah Craig,Heaven Hill,Heaven Hill,37.794984,-85.463799,17
+Elijah Craig 18,19,83.47,9.15,Bourbon,Elijah Craig,Heaven Hill,Heaven Hill,37.794984,-85.463799,17
+Elijah Craig Barrel Proof,58,90.07,3.84,Bourbon,Elijah Craig,Heaven Hill,Heaven Hill,37.794984,-85.463799,17
+Elmer T. Lee,60,84.73,6.46,Bourbon,Elmer T. Lee,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+Evan Williams Black Label,29,77.07,8.66,Bourbon,Evan Williams,Heaven Hill,Heaven Hill,37.794984,-85.463799,17
+Evan Williams Single Barrel 2003,24,83.08,4.46,Bourbon,Evan Williams,Heaven Hill,Heaven Hill,37.794984,-85.463799,17
+Evan Williams Single Barrel 2004,20,85.75,4.53,Bourbon,Evan Williams,Heaven Hill,Heaven Hill,37.794984,-85.463799,17
+Evan Williams White Label Bottled in Bond,42,79.43,8.83,Bourbon,Evan Williams,Heaven Hill,Heaven Hill,37.794984,-85.463799,17
+Famous Grouse,21,71.86,7.44,Scotch (Blend),Famous Grouse,Blended (Scotch),Edrington,56.745487,-4.242247,7
+Finlaggan Old Reserve,21,83.1,5.93,Scotch (Islay),Finlaggan,Blended (Scotch),Vintage Malt Whisky Company,56.745487,-4.242247,7
+Forty Creek Barrel Select,14,73.79,14.13,Canadian Whisky,Forty Creek,Blended (Canadian),Campari,58.031191,-102.432728,3
+Four Roses Single Barrel,72,86.86,5.76,Bourbon,Four Roses,Four Roses,Kirin Company,37.97337,-84.898452,17
+Four Roses Single Barrel Limited Edition 2014,10,88.0,7.3,Bourbon,Four Roses,Four Roses,Kirin Company,37.97337,-84.898452,17
+Four Roses Single Barrel Private Selection OBSF,23,85.74,12.37,Bourbon,Four Roses,Four Roses,Kirin Company,37.97337,-84.898452,17
+Four Roses Single Barrel Private Selection OBSK,18,88.5,5.64,Bourbon,Four Roses,Four Roses,Kirin Company,37.97337,-84.898452,17
+Four Roses Single Barrel Private Selection OBSQ,18,87.17,4.23,Bourbon,Four Roses,Four Roses,Kirin Company,37.97337,-84.898452,17
+Four Roses Single Barrel Private Selection OBSV,18,87.0,6.89,Bourbon,Four Roses,Four Roses,Kirin Company,37.97337,-84.898452,17
+Four Roses Single Barrel Private Selection OESF,16,87.12,3.74,Bourbon,Four Roses,Four Roses,Kirin Company,37.97337,-84.898452,17
+Four Roses Single Barrel Private Selection OESK,19,87.21,5.16,Bourbon,Four Roses,Four Roses,Kirin Company,37.97337,-84.898452,17
+Four Roses Single Barrel Private Selection OESQ,15,88.53,3.2,Bourbon,Four Roses,Four Roses,Kirin Company,37.97337,-84.898452,17
+Four Roses Small Batch,49,84.47,7.41,Bourbon,Four Roses,Four Roses,Kirin Company,37.97337,-84.898452,17
+Four Roses Small Batch Limited Edition 2013 125th Anniversary,32,92.25,3.49,Bourbon,Four Roses,Four Roses,Kirin Company,37.97337,-84.898452,17
+Four Roses Small Batch Limited Edition 2014,16,90.25,5.51,Bourbon,Four Roses,Four Roses,Kirin Company,37.97337,-84.898452,17
+Four Roses Small Batch Limited Edition 2015,15,89.4,4.67,Bourbon,Four Roses,Four Roses,Kirin Company,37.97337,-84.898452,17
+Four Roses Small Batch Limited Edition 2016,12,80.33,8.33,Bourbon,Four Roses,Four Roses,Kirin Company,37.97337,-84.898452,17
+Four Roses Yellow Label,21,73.76,10.11,Bourbon,Four Roses,Four Roses,Kirin Company,37.97337,-84.898452,17
+George Dickel No. 12,11,76.91,7.94,American Whiskey,George Dickel,Cascade Hollow,Diageo,35.438391,-86.246097,17
+George T. Stagg 2012,14,95.36,2.53,Bourbon,George T. Stagg,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+George T. Stagg 2013,23,91.3,4.58,Bourbon,George T. Stagg,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+George T. Stagg 2014,16,93.75,2.54,Bourbon,George T. Stagg,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+George T. Stagg 2017,10,90.2,3.97,Bourbon,George T. Stagg,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+Glen Garioch 12,20,82.75,6.57,Scotch (Highlands),Glen Garioch,Glen Garioch,Beam Suntory,57.338307,-2.319839,17
+Glen Garioch Founder's Reserve,17,84.12,4.36,Scotch (Highlands),Glen Garioch,Glen Garioch,Beam Suntory,57.338307,-2.319839,17
+Glen Grant 10,12,79.83,7.91,Scotch (Speyside),Glen Grant,Glen Grant,Compari,57.530077,-3.210662,17
+Glen Moray 12,10,73.2,7.3,Scotch (Speyside),Glen Moray,Glen Moray,La Martiniquaise,57.644477,-3.341847,17
+GlenDronach 12 Original,64,82.91,5.47,Scotch (Speyside),GlenDronach,GlenDronach,Brown-Forman,57.484612,-2.625774,17
+GlenDronach 15 Revival,74,87.26,4.07,Scotch (Speyside),GlenDronach,GlenDronach,Brown-Forman,57.484612,-2.625774,17
+GlenDronach 18 Allardice,24,87.54,4.0,Scotch (Speyside),GlenDronach,GlenDronach,Brown-Forman,57.484612,-2.625774,17
+GlenDronach 21 Parliament,39,85.36,9.32,Scotch (Speyside),GlenDronach,GlenDronach,Brown-Forman,57.484612,-2.625774,17
+GlenDronach Cask Strength,22,91.5,3.07,Scotch (Speyside),GlenDronach,GlenDronach,Brown-Forman,57.484612,-2.625774,17
+Glenfarclas 10,27,79.56,5.91,Scotch (Speyside),Glenfarclas,Glenfarclas,Sazerac Company,57.427029,-3.316281,17
+Glenfarclas 105 Cask Strength,78,86.99,5.64,Scotch (Speyside),Glenfarclas,Glenfarclas,Sazerac Company,57.427029,-3.316281,17
+Glenfarclas 12,81,83.67,6.29,Scotch (Speyside),Glenfarclas,Glenfarclas,Sazerac Company,57.427029,-3.316281,17
+Glenfarclas 15,39,82.72,9.46,Scotch (Speyside),Glenfarclas,Glenfarclas,Sazerac Company,57.427029,-3.316281,17
+Glenfarclas 17,45,85.71,5.5,Scotch (Speyside),Glenfarclas,Glenfarclas,Sazerac Company,57.427029,-3.316281,17
+Glenfarclas 21,34,85.12,5.08,Scotch (Speyside),Glenfarclas,Glenfarclas,Sazerac Company,57.427029,-3.316281,17
+Glenfarclas 25,42,87.05,5.68,Scotch (Speyside),Glenfarclas,Glenfarclas,Sazerac Company,57.427029,-3.316281,17
+Glenfarclas 40,19,93.95,2.9,Scotch (Speyside),Glenfarclas,Glenfarclas,Sazerac Company,57.427029,-3.316281,17
+Glenfiddich 12,138,76.93,7.39,Scotch (Speyside),Glenfiddich,Glenfiddich,William Grant & Sons,57.455039,-3.129154,17
+Glenfiddich 14 Bourbon Barrel Reserve,11,77.82,6.57,Scotch (Speyside),Glenfiddich,Glenfiddich,William Grant & Sons,57.455039,-3.129154,17
+Glenfiddich 14 Rich Oak,18,83.44,5.88,Scotch (Speyside),Glenfiddich,Glenfiddich,William Grant & Sons,57.455039,-3.129154,17
+Glenfiddich 15,77,81.69,8.1,Scotch (Speyside),Glenfiddich,Glenfiddich,William Grant & Sons,57.455039,-3.129154,17
+Glenfiddich 15 Distillery Edition,24,81.17,8.03,Scotch (Speyside),Glenfiddich,Glenfiddich,William Grant & Sons,57.455039,-3.129154,17
+Glenfiddich 18,62,83.18,8.28,Scotch (Speyside),Glenfiddich,Glenfiddich,William Grant & Sons,57.455039,-3.129154,17
+Glenfiddich 21 Gran Reserva,16,82.44,7.38,Scotch (Speyside),Glenfiddich,Glenfiddich,William Grant & Sons,57.455039,-3.129154,17
+Glenfiddich Experimental Series IPA Cask Finish,16,78.56,4.99,Scotch (Speyside),Glenfiddich,Glenfiddich,William Grant & Sons,57.455039,-3.129154,17
+Glenfiddich Snow Phoenix,12,87.75,4.65,Scotch (Speyside),Glenfiddich,Glenfiddich,William Grant & Sons,57.455039,-3.129154,17
+Glengoyne 10,13,72.92,14.39,Scotch (Highlands),Glengoyne,Glengoyne,Ian Macleod,56.014121,-4.364996,17
+Glengoyne 12,18,81.56,3.73,Scotch (Highlands),Glengoyne,Glengoyne,Ian Macleod,56.014121,-4.364996,17
+Glengoyne 15,13,84.23,3.79,Scotch (Highlands),Glengoyne,Glengoyne,Ian Macleod,56.014121,-4.364996,17
+Glengoyne 17,19,82.63,6.33,Scotch (Highlands),Glengoyne,Glengoyne,Ian Macleod,56.014121,-4.364996,17
+Glengoyne 18,20,83.3,7.83,Scotch (Highlands),Glengoyne,Glengoyne,Ian Macleod,56.014121,-4.364996,17
+Glengoyne 21,20,86.15,4.39,Scotch (Highlands),Glengoyne,Glengoyne,Ian Macleod,56.014121,-4.364996,17
+Glengoyne 25,16,91.62,4.15,Scotch (Highlands),Glengoyne,Glengoyne,Ian Macleod,56.014121,-4.364996,17
+Glenkinchie 12,35,76.86,11.19,Scotch (Lowlands),Glenkinchie,Glenkinchie,Diageo,55.891385,-2.89159,17
+Glenlivet 12,116,75.48,9.37,Scotch (Speyside),Glenlivet,Glenlivet,Pernod Ricard,57.343468,-3.338513,17
+Glenlivet 15 French Oak Reserve,63,80.51,6.57,Scotch (Speyside),Glenlivet,Glenlivet,Pernod Ricard,57.343468,-3.338513,17
+Glenlivet 16 Nadurra,83,85.78,5.18,Scotch (Speyside),Glenlivet,Glenlivet,Pernod Ricard,57.343468,-3.338513,17
+Glenlivet 18,62,83.27,7.09,Scotch (Speyside),Glenlivet,Glenlivet,Pernod Ricard,57.343468,-3.338513,17
+Glenlivet 21 Archive,21,86.95,6.58,Scotch (Speyside),Glenlivet,Glenlivet,Pernod Ricard,57.343468,-3.338513,17
+Glenlivet 25,13,88.77,6.42,Scotch (Speyside),Glenlivet,Glenlivet,Pernod Ricard,57.343468,-3.338513,17
+Glenlivet Nadurra Oloroso,17,82.71,6.5,Scotch (Speyside),Glenlivet,Glenlivet,Pernod Ricard,57.343468,-3.338513,17
+Glenmorangie 10 Original,123,80.5,6.58,Scotch (Highlands),Glenmorangie,Glenmorangie,LVMH,57.826506,-4.077567,17
+Glenmorangie 12 Quinta Ruban,124,83.98,5.77,Scotch (Highlands),Glenmorangie,Glenmorangie,LVMH,57.826506,-4.077567,17
+Glenmorangie 18,29,85.83,5.16,Scotch (Highlands),Glenmorangie,Glenmorangie,LVMH,57.826506,-4.077567,17
+Glenmorangie Artein,17,88.35,7.36,Scotch (Highlands),Glenmorangie,Glenmorangie,LVMH,57.826506,-4.077567,17
+Glenmorangie Astar,34,86.71,6.2,Scotch (Highlands),Glenmorangie,Glenmorangie,LVMH,57.826506,-4.077567,17
+Glenmorangie Ealanta,28,88.61,4.76,Scotch (Highlands),Glenmorangie,Glenmorangie,LVMH,57.826506,-4.077567,17
+Glenmorangie Lasanta,70,77.89,7.2,Scotch (Highlands),Glenmorangie,Glenmorangie,LVMH,57.826506,-4.077567,17
+Glenmorangie Nectar D'Or 12,75,82.57,6.63,Scotch (Highlands),Glenmorangie,Glenmorangie,LVMH,57.826506,-4.077567,17
+Glenmorangie Signet,25,86.8,5.03,Scotch (Highlands),Glenmorangie,Glenmorangie,LVMH,57.826506,-4.077567,17
+Glenrothes Select Reserve,13,70.31,8.48,Scotch (Speyside),Glenrothes,Glenrothes,Edrington,57.526843,-3.216361,17
+Green Spot,25,79.08,5.48,Irish Whiskey,Green Spot,Midleton,Pernod Ricard,51.916295,-8.165147,17
+Hakushu 12,23,84.26,6.34,Japan,Hakushu,Hakushu,Beam Suntory,35.825683,138.301266,17
+Hazelburn 10,11,82.45,5.57,Scotch (Campbeltown),Hazelburn,Springbank,J & A Mitchell & Company,55.425461,-5.608698,17
+Heaven Hill 6 Bottled in Bond,25,81.2,5.96,Bourbon,Heaven Hill,Heaven Hill,Heaven Hill,37.794984,-85.463799,17
+Henry McKenna 10 Single Barrel,56,83.41,8.43,Bourbon,Henry McKenna,Heaven Hill,Heaven Hill,37.794984,-85.463799,17
+Hibiki 12,17,78.71,11.36,Japan,Hibiki,Blended (Japanese),Beam Suntory,36.587308,138.353193,6
+Hibiki 17,15,86.2,4.96,Japan,Hibiki,Blended (Japanese),Beam Suntory,36.587308,138.353193,6
+Hibiki Japanese Harmony,16,78.12,8.29,Japan,Hibiki,Blended (Japanese),Beam Suntory,36.587308,138.353193,6
+High West A Midwinter Nights Dram,25,92.64,3.72,Rye,High West,High West,Constellation Brands,40.808274,-111.444556,17
+High West Bourye,21,85.86,4.35,American Whiskey,High West,High West,Constellation Brands,40.808274,-111.444556,17
+High West Campfire,28,85.46,7.65,American Whiskey,High West,High West,Constellation Brands,40.808274,-111.444556,17
+High West Double Rye,32,83.62,8.22,Rye,High West,High West,Constellation Brands,40.808274,-111.444556,17
+High West Rendezvous Rye,49,87.57,5.41,Rye,High West,High West,Constellation Brands,40.808274,-111.444556,17
+High West Son of Bourye,15,85.4,4.63,American Whiskey,High West,High West,Constellation Brands,40.808274,-111.444556,17
+High West Yippee Ki Yay,12,81.33,9.98,Rye,High West,High West,Constellation Brands,40.808274,-111.444556,17
+Highland Park 12,171,83.86,7.15,Scotch (Islands),Highland Park,Highland Park,Edrington,58.968813,-2.95542,17
+Highland Park 15,25,83.84,7.65,Scotch (Islands),Highland Park,Highland Park,Edrington,58.968813,-2.95542,17
+Highland Park 15 Freya,10,86.7,4.69,Scotch (Islands),Highland Park,Highland Park,Edrington,58.968813,-2.95542,17
+Highland Park 15 Loki,12,87.17,3.21,Scotch (Islands),Highland Park,Highland Park,Edrington,58.968813,-2.95542,17
+Highland Park 18,81,86.9,5.96,Scotch (Islands),Highland Park,Highland Park,Edrington,58.968813,-2.95542,17
+Highland Park 25,25,89.76,4.47,Scotch (Islands),Highland Park,Highland Park,Edrington,58.968813,-2.95542,17
+Highland Park Dark Origins,30,82.77,7.02,Scotch (Islands),Highland Park,Highland Park,Edrington,58.968813,-2.95542,17
+J&B Rare,13,46.23,22.33,Scotch (Blend),J&B Rare,Blended (Scotch),Diageo,56.745487,-4.242247,7
+J.P. Wiser's 18,9,81.0,6.16,Canadian Whisky,J.P. Wiser's,Hiram Walker & Sons,Pernod Ricard,42.326855,-83.006842,17
+J.P. Wiser's Dissertation,10,84.5,2.84,Canadian Whisky,J.P. Wiser's,Hiram Walker & Sons,Pernod Ricard,42.326855,-83.006842,17
+J.P. Wiser's Last Barrels,9,80.89,3.95,Canadian Whisky,J.P. Wiser's,Hiram Walker & Sons,Pernod Ricard,42.326855,-83.006842,17
+Jack Daniel's Old No. 7,35,69.89,10.11,Bourbon,Jack Daniels,Jack Daniels,Brown-Forman,35.284384,-86.366846,17
+Jack Daniel's Single Barrel,21,77.48,9.67,Bourbon,Jack Daniels,Jack Daniels,Brown-Forman,35.284384,-86.366846,17
+Jameson,24,73.0,8.11,Irish Whiskey,Jameson,Midleton,Pernod Ricard,51.916295,-8.165147,17
+Jefferson's 10 Rye Whiskey,8,86.25,4.4,Rye,Jefferson's,Jefferson's,Castle Brands,38.336291,-85.462697,17
+Jim Beam Black 8 Double Aged,19,77.05,10.42,Bourbon,Jim Beam,Jim Beam,Beam Suntory,37.929228,-85.652782,17
+Jim Beam Bonded,13,80.15,6.48,Bourbon,Jim Beam,Jim Beam,Beam Suntory,37.929228,-85.652782,17
+Jim Beam Devil's Cut,12,74.83,5.81,Bourbon,Jim Beam,Jim Beam,Beam Suntory,37.929228,-85.652782,17
+Jim Beam Signature Craft 12,10,77.1,8.85,Bourbon,Jim Beam,Jim Beam,Beam Suntory,37.929228,-85.652782,17
+Jim Beam White Label,34,68.88,9.16,Bourbon,Jim Beam,Jim Beam,Beam Suntory,37.929228,-85.652782,17
+Johnnie Walker Black Label,92,76.83,8.84,Scotch (Blend),Johnnie Walker,Blended (Scotch),Diageo,56.745487,-4.242247,7
+Johnnie Walker Blue Label,39,79.51,7.45,Scotch (Blend),Johnnie Walker,Blended (Scotch),Diageo,56.745487,-4.242247,7
+Johnnie Walker Double Black,27,77.93,6.64,Scotch (Blend),Johnnie Walker,Blended (Scotch),Diageo,56.745487,-4.242247,7
+Johnnie Walker Gold Label,27,79.74,5.9,Scotch (Blend),Johnnie Walker,Blended (Scotch),Diageo,56.745487,-4.242247,7
+Johnnie Walker Green Label,80,82.9,6.1,Scotch (Blend),Johnnie Walker,Blended (Scotch),Diageo,56.745487,-4.242247,7
+Johnnie Walker Platinum Label,19,76.89,13.13,Scotch (Blend),Johnnie Walker,Blended (Scotch),Diageo,56.745487,-4.242247,7
+Johnnie Walker Red Label,54,50.98,14.21,Scotch (Blend),Johnnie Walker,Blended (Scotch),Diageo,56.745487,-4.242247,7
+Johnny Drum Private Stock,9,77.78,4.82,Bourbon,Johnny Drum,Willett,Willett,37.78489,-85.461244,17
+Jura 10 Origin,35,72.29,9.79,Scotch (Islands),Jura,Jura,Whyte & Mackay,55.832808,-5.951614,17
+Jura 16,25,80.76,5.35,Scotch (Islands),Jura,Jura,Whyte & Mackay,55.832808,-5.951614,17
+Jura Prophecy,16,81.34,6.17,Scotch (Islands),Jura,Jura,Whyte & Mackay,55.832808,-5.951614,17
+Jura Superstition,42,77.4,6.6,Scotch (Islands),Jura,Jura,Whyte & Mackay,55.832808,-5.951614,17
+Kavalan Concertmaster,10,78.7,11.23,World,Kavalan,Kavalan,King Car Group,24.713754,121.690988,17
+Kavalan Solist Ex-Bourbon,14,85.71,7.55,World,Kavalan,Kavalan,King Car Group,24.713754,121.690988,17
+Kavalan Solist Sherry,25,82.84,6.75,World,Kavalan,Kavalan,King Car Group,24.713754,121.690988,17
+Kavalan Solist Vinho Barrique,16,87.69,4.35,World,Kavalan,Kavalan,King Car Group,24.713754,121.690988,17
+Kilchoman Coull Point,15,80.87,6.38,Scotch (Islay),Kilchoman,Kilchoman,Kilchoman,55.786916,-6.430513,17
+Kilchoman Loch Gorm,26,85.5,5.48,Scotch (Islay),Kilchoman,Kilchoman,Kilchoman,55.786916,-6.430513,17
+Kilchoman Machir Bay,71,84.8,6.23,Scotch (Islay),Kilchoman,Kilchoman,Kilchoman,55.786916,-6.430513,17
+Kilchoman Port Cask Matured,18,87.72,5.1,Scotch (Islay),Kilchoman,Kilchoman,Kilchoman,55.786916,-6.430513,17
+Kilchoman Sanaig,20,82.9,6.87,Scotch (Islay),Kilchoman,Kilchoman,Kilchoman,55.786916,-6.430513,17
+Kilchoman Sherry Cask Release,11,85.18,7.93,Scotch (Islay),Kilchoman,Kilchoman,Kilchoman,55.786916,-6.430513,17
+Kilkerran 12,22,84.18,4.56,Scotch (Campbeltown),Kilkerran,Glengyle,J & A Mitchell & Company,55.427175,-5.610738,17
+Knob Creek 9 Small Batch,39,83.15,6.9,Bourbon,Knob Creek,Jim Beam,Beam Suntory,37.929228,-85.652782,17
+Knob Creek Rye,22,77.82,9.57,Rye,Knob Creek,Jim Beam,Beam Suntory,37.929228,-85.652782,17
+Knob Creek Single Barrel Reserve,34,84.12,4.95,Bourbon,Knob Creek,Jim Beam,Beam Suntory,37.929228,-85.652782,17
+Lagavulin 12,65,90.45,4.39,Scotch (Islay),Lagavulin,Lagavulin,Diageo,55.635551,-6.126194,17
+Lagavulin 16,168,87.29,7.37,Scotch (Islay),Lagavulin,Lagavulin,Diageo,55.635551,-6.126194,17
+Lagavulin 1995 Distillers Edition,13,87.23,6.72,Scotch (Islay),Lagavulin,Lagavulin,Diageo,55.635551,-6.126194,17
+Lagavulin 1997 Distillers Edition,11,90.18,4.42,Scotch (Islay),Lagavulin,Lagavulin,Diageo,55.635551,-6.126194,17
+Lagavulin 8,36,83.86,5.86,Scotch (Islay),Lagavulin,Lagavulin,Diageo,55.635551,-6.126194,17
+Laphroaig 10,141,85.38,5.92,Scotch (Islay),Laphroaig,Laphroaig,Beam Suntory,55.630008,-6.15229,17
+Laphroaig 10 Cask Strength,40,88.9,7.66,Scotch (Islay),Laphroaig,Laphroaig,Beam Suntory,55.630008,-6.15229,17
+Laphroaig 15,21,86.52,5.54,Scotch (Islay),Laphroaig,Laphroaig,Beam Suntory,55.630008,-6.15229,17
+Laphroaig 18,88,89.15,4.32,Scotch (Islay),Laphroaig,Laphroaig,Beam Suntory,55.630008,-6.15229,17
+Laphroaig 25 Cask Strength 2008,11,92.55,2.62,Scotch (Islay),Laphroaig,Laphroaig,Beam Suntory,55.630008,-6.15229,17
+Laphroaig An Cuan Mor,14,86.86,3.66,Scotch (Islay),Laphroaig,Laphroaig,Beam Suntory,55.630008,-6.15229,17
+Laphroaig Cairdeas 2012 Origin,23,89.43,5.63,Scotch (Islay),Laphroaig,Laphroaig,Beam Suntory,55.630008,-6.15229,17
+Laphroaig Cairdeas 2013 Portwood,60,91.42,5.52,Scotch (Islay),Laphroaig,Laphroaig,Beam Suntory,55.630008,-6.15229,17
+Laphroaig Cairdeas 2014 Amontillado,25,86.96,5.75,Scotch (Islay),Laphroaig,Laphroaig,Beam Suntory,55.630008,-6.15229,17
+Laphroaig Cairdeas 2015,24,86.25,3.55,Scotch (Islay),Laphroaig,Laphroaig,Beam Suntory,55.630008,-6.15229,17
+Laphroaig Cairdeas 2016 Madeira,26,85.19,3.66,Scotch (Islay),Laphroaig,Laphroaig,Beam Suntory,55.630008,-6.15229,17
+Laphroaig Cairdeas 2017 Quarter Cask Cask Strength,9,84.22,4.47,Scotch (Islay),Laphroaig,Laphroaig,Beam Suntory,55.630008,-6.15229,17
+Laphroaig Lore,22,82.36,5.64,Scotch (Islay),Laphroaig,Laphroaig,Beam Suntory,55.630008,-6.15229,17
+Laphroaig PX Cask,41,86.15,4.56,Scotch (Islay),Laphroaig,Laphroaig,Beam Suntory,55.630008,-6.15229,17
+Laphroaig Quarter Cask,155,88.94,5.27,Scotch (Islay),Laphroaig,Laphroaig,Beam Suntory,55.630008,-6.15229,17
+Laphroaig Select,14,77.14,9.59,Scotch (Islay),Laphroaig,Laphroaig,Beam Suntory,55.630008,-6.15229,17
+Laphroaig Triplewood,40,85.98,5.07,Scotch (Islay),Laphroaig,Laphroaig,Beam Suntory,55.630008,-6.15229,17
+Larceny Small Batch Bourbon,26,78.92,6.32,Bourbon,Larceny,Heaven Hill,Heaven Hill,37.794984,-85.463799,17
+Ledaig 10,48,81.83,8.91,Scotch (Islands),Ledaig,Tobermory,Distell Group,56.620789,-6.069983,17
+Ledaig 18,10,79.3,12.43,Scotch (Islands),Ledaig,Tobermory,Distell Group,56.620789,-6.069983,17
+Ledaig 7 /r/Scotch Community Cask,19,84.16,5.82,Scotch (Islands),Ledaig,Tobermory,Distell Group,56.620789,-6.069983,17
+Longrow 10,11,87.45,3.08,Scotch (Campbeltown),Longrow,Springbank,J & A Mitchell & Company,55.425461,-5.608698,17
+Longrow Peated,40,83.85,4.02,Scotch (Campbeltown),Longrow,Springbank,J & A Mitchell & Company,55.425461,-5.608698,17
+Longrow Red 11 Australian Shiraz,16,87.94,3.3,Scotch (Campbeltown),Longrow,Springbank,J & A Mitchell & Company,55.425461,-5.608698,17
+Longrow Red 11 Cabernet Sauvignon,12,86.67,5.26,Scotch (Campbeltown),Longrow,Springbank,J & A Mitchell & Company,55.425461,-5.608698,17
+Longrow Red 11 Fresh Port Cask,29,89.52,2.63,Scotch (Campbeltown),Longrow,Springbank,J & A Mitchell & Company,55.425461,-5.608698,17
+Longrow Red 12 Fresh Pinot Noir Cask,14,85.36,4.33,Scotch (Campbeltown),Longrow,Springbank,J & A Mitchell & Company,55.425461,-5.608698,17
+Longrow Red 13 Malbec,14,86.5,2.5,Scotch (Campbeltown),Longrow,Springbank,J & A Mitchell & Company,55.425461,-5.608698,17
+Lot No. 40,26,82.58,8.47,Canadian Whisky,Lot No. 40,Hiram Walker & Sons,Pernod Ricard,42.326855,-83.006842,17
+Macallan 10 Fine Oak,37,80.95,6.32,Scotch (Speyside),Macallan,Macallan,Edrington,57.483652,-3.208491,17
+Macallan 12,19,82.32,6.14,Scotch (Speyside),Macallan,Macallan,Edrington,57.483652,-3.208491,17
+Macallan 12 Double Cask,12,80.83,5.39,Scotch (Speyside),Macallan,Macallan,Edrington,57.483652,-3.208491,17
+Macallan 12 Sherry,93,82.56,6.27,Scotch (Speyside),Macallan,Macallan,Edrington,57.483652,-3.208491,17
+Macallan 15 Fine Oak,26,85.33,4.37,Scotch (Speyside),Macallan,Macallan,Edrington,57.483652,-3.208491,17
+Macallan 17 Fine Oak,9,87.22,7.6,Scotch (Speyside),Macallan,Macallan,Edrington,57.483652,-3.208491,17
+Macallan 18,10,88.2,3.22,Scotch (Speyside),Macallan,Macallan,Edrington,57.483652,-3.208491,17
+Macallan 18 Sherry,31,89.16,5.01,Scotch (Speyside),Macallan,Macallan,Edrington,57.483652,-3.208491,17
+Macallan 25 Sherry,11,89.55,5.03,Scotch (Speyside),Macallan,Macallan,Edrington,57.483652,-3.208491,17
+Macallan Classic Cut 2017,9,81.56,4.8,Scotch (Speyside),Macallan,Macallan,Edrington,57.483652,-3.208491,17
+Macallan Edition No. 2,19,85.95,6.54,Scotch (Speyside),Macallan,Macallan,Edrington,57.483652,-3.208491,17
+Macallan Gold,15,70.53,5.8,Scotch (Speyside),Macallan,Macallan,Edrington,57.483652,-3.208491,17
+Macallan Rare Cask,18,75.67,11.1,Scotch (Speyside),Macallan,Macallan,Edrington,57.483652,-3.208491,17
+Macallan Select Oak,15,79.0,7.83,Scotch (Speyside),Macallan,Macallan,Edrington,57.483652,-3.208491,17
+Macallan Sherry Cask Strength,72,91.31,4.39,Scotch (Speyside),Macallan,Macallan,Edrington,57.483652,-3.208491,17
+Mackinlay's Shackleton Rare Old Highland Malt Whisky,17,84.41,4.15,Scotch (Blend),Shackleton,Blended (Scotch),Whyte & Mackay,56.745487,-4.242247,7
+Maker's Mark,47,78.87,7.15,Bourbon,Maker's Mark,Jim Beam,Beam Suntory,37.929228,-85.652782,17
+Maker's Mark 46,27,84.19,5.34,Bourbon,Maker's Mark,Jim Beam,Beam Suntory,37.929228,-85.652782,17
+Maker's Mark Cask Strength,49,83.88,6.74,Bourbon,Maker's Mark,Jim Beam,Beam Suntory,37.929228,-85.652782,17
+McClelland Islay,19,62.89,17.42,Scotch (Islay),McClelland's,Blended (Scotch),Beam Suntory,56.745487,-4.242247,7
+Mellow Corn,19,74.11,6.7,American Whiskey,Mellow Corn,Heaven Hill,Heaven Hill,37.794984,-85.463799,17
+Michel Couvreur 12 Overaged Malt Whiskey,11,82.45,4.46,World,Michel Couvreur,Blended (Scotch),Michel Couvreur,56.745487,-4.242247,7
+Michter's 10 Bourbon,22,84.91,7.5,Bourbon,Michter's,Michter's,Michter's,38.214864,-85.788174,17
+Michter's 10 Rye,9,86.56,4.82,Rye,Michter's,Michter's,Michter's,38.214864,-85.788174,17
+Michter's Barrel Strength Rye,20,86.2,4.12,Rye,Michter's,Michter's,Michter's,38.214864,-85.788174,17
+Millstone 100 Rye,8,81.0,4.28,World,Millstone,Zuidam,Zuidam,51.444674,4.939071,17
+Monkey Shoulder,46,76.57,10.22,Scotch (Blend),Monkey Shoulder,Blended (Scotch),William Grant & Sons,56.745487,-4.242247,7
+Mortlach 15 Gordon & MacPhail,13,84.77,6.18,Scotch (Speyside),Mortlach,Mortlach,Diageo,57.443044,-3.123186,17
+Mortlach Rare Old,11,75.64,9.48,Scotch (Speyside),Mortlach,Mortlach,Diageo,57.443044,-3.123186,17
+Nikka Coffey Grain,18,76.06,8.47,Japan,Nikka,Yoichi,Nikka,43.185725,140.789721,17
+Nikka Coffey Malt,13,82.31,6.74,Japan,Nikka,Yoichi,Nikka,43.185725,140.789721,17
+Nikka Taketsuru 21,12,86.25,4.67,Japan,Nikka,Yoichi,Nikka,43.185725,140.789721,17
+Nikka Whisky From The Barrel,39,84.23,5.43,Japan,Nikka,Yoichi,Nikka,43.185725,140.789721,17
+Noah's Mill,25,81.32,9.45,Bourbon,Noah's Mill,Willett,Willett,37.78489,-85.461244,17
+Oban 14,94,81.87,5.79,Scotch (Highlands),Oban,Oban,Diageo,56.415012,-5.47226,17
+Oban 18,17,87.88,4.48,Scotch (Highlands),Oban,Oban,Diageo,56.415012,-5.47226,17
+Oban Little Bay,9,79.67,6.34,Scotch (Highlands),Oban,Oban,Diageo,56.415012,-5.47226,17
+Old Ezra 101,13,85.15,3.51,Bourbon,Old Ezra,Luxco,Luxco,37.810415,-85.428056,17
+Old Forester 1920,21,84.33,4.26,Bourbon,Old Forester,Brown-Forman,Brown-Forman,38.207109,-85.794374,17
+Old Forester 86,13,77.69,9.59,Bourbon,Old Forester,Brown-Forman,Brown-Forman,38.207109,-85.794374,17
+Old Forester Birthday Bourbon 2014,12,84.92,7.23,Bourbon,Old Forester,Brown-Forman,Brown-Forman,38.207109,-85.794374,17
+Old Forester Signature,17,82.41,5.5,Bourbon,Old Forester,Brown-Forman,Brown-Forman,38.207109,-85.794374,17
+Old Grand Dad 100 Bottled in Bond,53,82.23,6.47,Bourbon,Old Grand Dad,Jim Beam,Beam Suntory,37.929228,-85.652782,17
+Old Grand Dad 114,60,84.37,6.57,Bourbon,Old Grand Dad,Jim Beam,Beam Suntory,37.929228,-85.652782,17
+Old Pulteney 12,82,81.01,6.74,Scotch (Highlands),Old Pulteney,Old Pulteney,Inver House,58.434944,-3.08461,17
+Old Pulteney 17,35,85.4,4.76,Scotch (Highlands),Old Pulteney,Old Pulteney,Inver House,58.434944,-3.08461,17
+Old Pulteney 21,27,87.81,7.44,Scotch (Highlands),Old Pulteney,Old Pulteney,Inver House,58.434944,-3.08461,17
+Old Rip Van Winkle 10,32,88.88,5.38,Bourbon,Van Winkle,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+Old Weller Antique 107,95,85.47,5.51,Bourbon,W.L. Weller,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+Orphan Barrel Barterhouse 20,31,83.26,10.15,Bourbon,Orphan Barrel,Sourced (Bourbon),Orphan Barrel,37.468601,-85.018563,7
+Pappy Van Winkle Family Reserve Bourbon 15,25,87.12,17.62,Bourbon,Van Winkle,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+Pappy Van Winkle Family Reserve Bourbon 20,14,90.29,5.2,Bourbon,Van Winkle,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+Pappy Van Winkle Family Reserve Bourbon 23,10,88.0,4.9,Bourbon,Van Winkle,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+Parker's Heritage Collection 6th: Blend of Mashbills,11,87.91,8.65,Bourbon,Parker's Heritage,Heaven Hill,Heaven Hill,37.794984,-85.463799,17
+Parker's Heritage Collection 7th: Promise of Hope,13,87.54,4.48,Bourbon,Parker's Heritage,Heaven Hill,Heaven Hill,37.794984,-85.463799,17
+Parker's Heritage Collection 8th: Wheat Whiskey,19,86.42,10.13,Other,Parker's Heritage,Heaven Hill,Heaven Hill,37.794984,-85.463799,17
+Parker's Heritage Collection 9th: Malt Whiskey,8,83.12,8.1,American Whiskey,Parker's Heritage,Heaven Hill,Heaven Hill,37.794984,-85.463799,17
+Pig's Nose,19,76.37,8.83,Scotch (Blend),Pig's Nose,Blended (Scotch),Ian Macleod,56.745487,-4.242247,7
+Pikesville Rye,26,83.31,5.32,Rye,Pikesville,Heaven Hill,Heaven Hill,37.794984,-85.463799,17
+Port Ellen 32 12th Release,11,89.82,4.07,Scotch (Islay),Port Ellen,Port Ellen,Diageo,55.633931,-6.19696,17
+Rebel Yell 10 Single Barrel,19,82.89,4.28,Bourbon,Rebel Yell,Luxco,Luxco,37.810415,-85.428056,17
+Redbreast 12,28,82.32,6.77,Irish Whiskey,Redbreast,Midleton,Pernod Ricard,51.916295,-8.165147,17
+Redbreast 12 Cask Strength,18,86.06,5.54,Irish Whiskey,Redbreast,Midleton,Pernod Ricard,51.916295,-8.165147,17
+Redbreast 15,18,85.56,5.65,Irish Whiskey,Redbreast,Midleton,Pernod Ricard,51.916295,-8.165147,17
+Redbreast 21,11,87.55,5.99,Irish Whiskey,Redbreast,Midleton,Pernod Ricard,51.916295,-8.165147,17
+Redbreast Lustau Edition,14,79.5,5.98,Irish Whiskey,Redbreast,Midleton,Pernod Ricard,51.916295,-8.165147,17
+Rittenhouse Rye 100,62,83.44,6.37,Rye,Rittenhouse,Heaven Hill,Heaven Hill,37.794984,-85.463799,17
+Rock Hill Farms Single Barrel Bourbon,13,85.77,6.81,Bourbon,Rock Hill,Buffalo Trace,Sazerac,38.216776,-84.870889,17
+Rowan's Creek,13,81.69,6.12,Bourbon,Rowan's Creek,Willett,Willett,37.78489,-85.461244,17
+Royal Lochnagar 12,11,79.09,4.5,Scotch (Highlands),Royal Lochnagar,Royal Lochnagar,Diageo,57.029992,-3.209176,17
+Russell's Reserve 10,23,81.04,6.51,Bourbon,Russell's Reserve,Wild Turkey,Campari,38.043561,-84.853022,17
+Russell's Reserve Single Barrel Bourbon,42,84.83,6.01,Bourbon,Russell's Reserve,Wild Turkey,Campari,38.043561,-84.853022,17
+Russell's Reserve Single Barrel Rye,14,82.86,6.14,Rye,Russell's Reserve,Wild Turkey,Campari,38.043561,-84.853022,17
+Sazerac Rye,45,81.31,8.07,Rye,Sazerac,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+Scapa 16,26,81.88,5.91,Scotch (Islands),Scapa,Scapa,Pernod Ricard,58.96353,-2.98538,17
+Sheep Dip,13,78.23,9.74,Scotch (Blend),Sheep Dip,Blended (Scotch),Ian Macleod,56.745487,-4.242247,7
+Singleton of Glendullan 12,11,76.64,6.74,Scotch (Speyside),The Singleton,Glendullan,Diageo,57.448075,-3.118377,17
+Smokehead,11,78.27,6.26,Scotch (Islay),Smokehead,Blended (Scotch),Ian Macleod,56.745487,-4.242247,7
+Smooth Ambler Old Scout Bourbon 10,19,83.53,4.23,Bourbon,Smooth Ambler,Sourced (Bourbon),Pernod Ricard,37.468601,-85.018563,7
+Smooth Ambler Old Scout Bourbon 7,13,82.0,5.1,Bourbon,Smooth Ambler,Sourced (Bourbon),Pernod Ricard,37.468601,-85.018563,7
+Smooth Ambler Old Scout Rye 7,23,86.22,4.87,Rye,Smooth Ambler,Sourced (Bourbon),Pernod Ricard,37.468601,-85.018563,7
+Smooth Ambler Old Scout Rye 8,11,88.55,4.76,Rye,Smooth Ambler,Sourced (Bourbon),Pernod Ricard,37.468601,-85.018563,7
+Speyburn 10,23,78.22,6.45,Scotch (Speyside),Speyburn,Speyburn,Inver House,57.536456,-3.215464,17
+Springbank 10,79,84.71,5.57,Scotch (Campbeltown),Springbank,Springbank,J & A Mitchell & Company,55.425461,-5.608698,17
+Springbank 10 100 Proof,11,89.09,5.74,Scotch (Campbeltown),Springbank,Springbank,J & A Mitchell & Company,55.425461,-5.608698,17
+Springbank 12 Burgundy,15,85.4,3.74,Scotch (Campbeltown),Springbank,Springbank,J & A Mitchell & Company,55.425461,-5.608698,17
+Springbank 12 Cask Strength,28,84.64,7.72,Scotch (Campbeltown),Springbank,Springbank,J & A Mitchell & Company,55.425461,-5.608698,17
+Springbank 12 Cask Strength Batch 7,11,89.36,2.11,Scotch (Campbeltown),Springbank,Springbank,J & A Mitchell & Company,55.425461,-5.608698,17
+Springbank 15,48,86.94,4.27,Scotch (Campbeltown),Springbank,Springbank,J & A Mitchell & Company,55.425461,-5.608698,17
+Springbank 16 Local Barley,10,86.3,3.71,Scotch (Campbeltown),Springbank,Springbank,J & A Mitchell & Company,55.425461,-5.608698,17
+Springbank 17 Sherry Wood,11,82.91,11.27,Scotch (Campbeltown),Springbank,Springbank,J & A Mitchell & Company,55.425461,-5.608698,17
+Springbank 18,22,86.77,7.17,Scotch (Campbeltown),Springbank,Springbank,J & A Mitchell & Company,55.425461,-5.608698,17
+Springbank 21,13,90.54,4.2,Scotch (Campbeltown),Springbank,Springbank,J & A Mitchell & Company,55.425461,-5.608698,17
+Stagg Jr.,41,87.0,4.41,Bourbon,Stagg Jr.,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+Stagg Jr. Batch #9,8,88.5,1.77,Bourbon,Stagg Jr.,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+Stranahan's Colorado Whiskey,11,82.45,4.8,American Whiskey,Stranahan's,Stranahan's,Proximo,39.712477,-104.998634,17
+Talisker 10,147,85.93,6.59,Scotch (Islands),Talisker,Talisker,Diageo,57.302435,-6.356502,17
+Talisker 175th Anniversary,9,86.22,3.67,Scotch (Islands),Talisker,Talisker,Diageo,57.302435,-6.356502,17
+Talisker 18,37,86.92,6.02,Scotch (Islands),Talisker,Talisker,Diageo,57.302435,-6.356502,17
+Talisker 25,17,88.94,5.4,Scotch (Islands),Talisker,Talisker,Diageo,57.302435,-6.356502,17
+Talisker 57° North,38,86.87,6.1,Scotch (Islands),Talisker,Talisker,Diageo,57.302435,-6.356502,17
+Talisker Distiller's Edition 2012,11,89.36,3.75,Scotch (Islands),Talisker,Talisker,Diageo,57.302435,-6.356502,17
+Talisker Port Ruighe,17,83.0,6.2,Scotch (Islands),Talisker,Talisker,Diageo,57.302435,-6.356502,17
+Talisker Storm,44,83.39,5.44,Scotch (Islands),Talisker,Talisker,Diageo,57.302435,-6.356502,17
+Tamdhu 10,8,81.12,4.67,Scotch (Speyside),Tamdhu,Tamdhu,Ian Macleod,57.459242,-3.352594,17
+Tamdhu 8 Signatory Cask Strength,12,90.33,4.1,Scotch (Speyside),Tamdhu,Tamdhu,Ian Macleod,57.459242,-3.352594,17
+Teeling Small Batch,17,80.18,6.7,Irish Whiskey,Teeling,Teeling,Teeling,53.337738,-6.277229,17
+Thomas H. Handy 2013,21,90.24,7.48,Rye,Thomas H. Handy,Buffalo Trace,Sazerac,38.216776,-84.870889,17
+Thomas H. Handy 2014,12,87.58,8.68,Rye,Thomas H. Handy,Buffalo Trace,Sazerac,38.216776,-84.870889,17
+Thomas H. Handy 2016,12,89.67,3.75,Rye,Thomas H. Handy,Buffalo Trace,Sazerac,38.216776,-84.870889,17
+Tobermory 10,37,80.97,7.65,Scotch (Islands),Tobermory,Tobermory,Distell Group,56.620789,-6.069983,17
+Tobermory 15,21,88.1,6.13,Scotch (Islands),Tobermory,Tobermory,Distell Group,56.620789,-6.069983,17
+Tomatin 12,36,75.47,8.34,Scotch (Highlands),Tomatin,Tomatin,Takara Shuzo,57.339181,-4.009741,17
+Tomatin 14 Portwood,10,83.2,8.52,Scotch (Highlands),Tomatin,Tomatin,Takara Shuzo,57.339181,-4.009741,17
+Tomatin 18,26,83.96,5.93,Scotch (Highlands),Tomatin,Tomatin,Takara Shuzo,57.339181,-4.009741,17
+Tomintoul 16,12,77.83,7.0,Scotch (Speyside),Tomintoul,Tomintoul,Angus Dundee,57.311696,-3.414987,17
+Té Bheag,13,82.46,3.53,Scotch (Blend),Té Bheag,Blended (Scotch),Praban na Linne,56.745487,-4.242247,7
+Van Winkle Family Reserve Rye 13,9,89.78,4.47,Rye,Van Winkle,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+Van Winkle Special Reserve 12 Lot B,23,85.65,7.23,Bourbon,Van Winkle,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+Very Old Barton Bottled In Bond,11,82.45,4.32,Bourbon,Very Old Barton,Barton 1792,Sazerac,37.804914,-85.477748,17
+W.L. Weller 12,70,86.67,6.67,Bourbon,W.L. Weller,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+W.L. Weller Special Reserve,41,77.73,11.28,Bourbon,W.L. Weller,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+Westland Sherry Wood,13,81.54,5.43,American Whiskey,Westland,Westland,Westland,47.576628,-122.334638,17
+WhistlePig 10 Straight Rye,23,86.43,4.13,Rye,WhistlePig,Sourced (Rye),WhistlePig,37.468601,-85.018563,7
+Wild Turkey 101,88,82.95,7.86,Bourbon,Wild Turkey,Wild Turkey,Campari,38.043561,-84.853022,17
+Wild Turkey 101 Rye,22,82.27,6.92,Rye,Wild Turkey,Wild Turkey,Campari,38.043561,-84.853022,17
+Wild Turkey 81,12,74.0,10.32,Bourbon,Wild Turkey,Wild Turkey,Campari,38.043561,-84.853022,17
+Wild Turkey Decades,11,88.91,2.84,Bourbon,Wild Turkey,Wild Turkey,Campari,38.043561,-84.853022,17
+Wild Turkey Forgiven,10,78.9,8.67,American Whiskey,Wild Turkey,Wild Turkey,Campari,38.043561,-84.853022,17
+Wild Turkey Kentucky Spirit,18,79.94,10.86,Bourbon,Wild Turkey,Wild Turkey,Campari,38.043561,-84.853022,17
+Wild Turkey Rare Breed,49,85.1,7.91,Bourbon,Wild Turkey,Wild Turkey,Campari,38.043561,-84.853022,17
+Willett Family Estate Rye 2y,17,82.47,5.85,Rye,Willett,Willett,Willett,37.78489,-85.461244,17
+Willett Family Estate Rye 3y,14,80.29,7.63,Rye,Willett,Willett,Willett,37.78489,-85.461244,17
+Willett Family Estate Rye 4y,29,88.45,3.08,Rye,Willett,Willett,Willett,37.78489,-85.461244,17
+William Larue Weller 2013,11,93.45,3.96,Bourbon,William Larue Weller,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+William Larue Weller 2016,12,86.96,8.87,Bourbon,William Larue Weller,Buffalo Trace,Sazerac Company,38.216776,-84.870889,17
+Woodford Reserve Distiller's Select,46,80.22,6.48,Bourbon,Woodford Reserve,Woodford Reserve,Brown-Forman,38.112949,-84.81266,17
+Woodford Reserve Double Oaked,19,82.16,6.57,Bourbon,Woodford Reserve,Woodford Reserve,Brown-Forman,38.112949,-84.81266,17
+Yamazaki 12,50,82.0,6.31,Japan,Yamazaki,Yamazaki,Beam Suntory,34.892408,135.674404,17
+Yamazaki 18,8,87.25,6.02,Japan,Yamazaki,Yamazaki,Beam Suntory,34.892408,135.674404,17
+Yellow Spot,14,85.86,4.17,Irish Whiskey,Yellow Spot,Midleton,Pernod Ricard,51.916295,-8.165147,17
