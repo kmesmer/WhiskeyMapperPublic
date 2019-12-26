@@ -1,33 +1,13 @@
-# Term Frequency/Inverse Document Frequency Analysis
+There are five directories in this project:
 
-1) Save archive.csv
+1) tfidf_whiskey: this directory extracts reviews using Reddit's API. Next, the reviews are cut and cleaned. Finally, we run a Term Frequency-Inverse Document Frequency analysis as a first step in building a recommendation engine. This was not a novel approach and u/shasty does an excellent job of explaining the code in his post at https://www.reddit.com/r/Scotch/comments/amrq5z/whisky_recommender_based_on_reddit_whisky_review/. Ultimately, the tf-idf analysis will be discarded because we can create a more accurate engine by selecting our own set of features (see below). In each of the directories, python files are alphabetized for easy execution and there is typically a .csv file output after each step so progress is obvious.
 
-2) Run a1_archive_clean.py, yields archive_clean.csv
+2) flavor_whiskey: In this directory, we create a custom dictionary of 323 descriptive words and count the frequency at which each word is used across reviews for each whiskey. These counts are averaged and these 323 features are used to calculate cosine similarity between whiskeys. We also pull the top 20 most frequenty used descriptive words for each whiskey, which will later be shown on the website. Next, we map each of the 323 words to one of 13 high-level flavor categories based on the work of David Wishart. I altered his categories a bit to make the system more appropriate for bourbon and rye in addition to scotch. These 13 feature profiles will also be displayed on the website, and we will use them to calculate cosine similarity across whiskeys again as the second model in our recommendation engine.
 
-3) Run a2_extract_reviews.py, yields reviews_raw.csv
+3) cf_whiskey: Here, we utilize user ratings (not reviews) to calculate cosine similarity between whiskeys in a process called item-based collaborative filtering. This is the third model used in our recommendation engine.
 
-4) Run a3_cut_reviews.py, yields reviews_cut.csv
+4) pca_whiskey: Here, we run a principal component analysis on our 323 descriptive terms to reduce the dimensionality to only 3 components. This allows us to graph each whiskey on a 3D scatter chart on the website.
 
-5) Run a4_clean_reviews.py, yields reviews_clean.csv
+5) stats_whiskey: Finally, we pull the basic stats for each whiskey. We do some cleaning and mapping since the original spreadsheet can be inconsistent and doesn't include some of the information we want to show.
 
-6) Run a5_tfidf.py, yields recommendations.csv and similarities.csv
-
-7) Run a6_combine_recs_simps.py, yields TF_sims_1.csv
-
-8) Run a7_scale_sims.py, yields TF_sims_2.csv
-
-# Item-Based Collaborative Filtering
-
-1) Run b1_archive_clean.py, yields archive_clean.csv (reads raw archive from tfidf directory)
-
-2) Run b2_adj_cos_sim.py, yields CF_sims1.csv
-
-3) Run b3_scale_sims.py, yields CF_sims2.csv
-
-4) Run b4_combine_sims.py, yeilds combined_sims.csv
-
-5) Run b5_clean_sims.py, yields final_recs.csv
-
-# Creating Flavor Profiles
-
-1) 
+Note: All data is ultimately written to whiskey.db using SQLite3 commands. This database is hosted on the website server.

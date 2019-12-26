@@ -3,6 +3,7 @@ import numpy as np
 from ast import literal_eval
 from collections import Counter
 
+#This file was used to create a list of all words used across all reviews. This was helpful for creating a custom dictionary of descriptive words.
 df = pd.read_csv("reviews_clean.csv")
 
 words = df["review"].tolist()
