@@ -15,7 +15,7 @@ for i in range(len(df1["whiskey"])):
         CF = df1.loc[df1['whiskey'] == whiskey_list[i],f"CF_Similarity_{j}"].values[0]
         Flav = df1.loc[df1['whiskey'] == whiskey_list[i],f"Flavor_Similarity_{j}"].values[0]
         Wpr = df1.loc[df1['whiskey'] == whiskey_list[i],f"Words_Similarity_{j}"].values[0]
-        wtd_avg = TF * 0.0 + CF * 0.2 + Flav * 0.3 + Wpr * 0.5
+        wtd_avg = TF * 0.0 + CF * 0.15 + Flav * 0.25 + Wpr * 0.6
         df1.loc[df1['whiskey'] == whiskey_list[i],f"Wtg_Avg_Sim_{j}"] = wtd_avg
 
 for j in range(1,51):

@@ -56,7 +56,7 @@ def extract_reviews(dataframe, re_client_id, re_client_secret, re_username, re_p
     return reviews
 
 if __name__ == "__main__":
-    re_client_id = "[This is private]"
+    re_client_id = "This is private"
     re_client_secret = "This is private"
     re_username = "This is private"
     re_pw = "This is private"
